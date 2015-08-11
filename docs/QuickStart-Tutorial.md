@@ -17,6 +17,7 @@ Let's start a project using the Relay Starter Kit as a base.
 git clone git@github.com:facebook/relay-starter-kit.git relay-treasurehunt
 cd relay-treasurehunt
 npm install
+npm install -g babel-node
 ```
 
 ## A simple database
